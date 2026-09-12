@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=500&height=80&lines=MTA" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=500&height=80&lines=MTA" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=500&height=80&lines=MTN" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=500&height=80&lines=MTN" />
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Agentic+Systems+Builder+%7C+LLM+Architect;Building+systems+that+think%2C+act%2C+and+scale.;Multi-Agent+Orchestration+%7C+RAG+%7C+Production+AI;Open+for+Collaboration+on+Ambitious+Projects." alt="Typing SVG" />
